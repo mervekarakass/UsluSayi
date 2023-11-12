@@ -9,10 +9,10 @@ public class UsluSayi {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("Taban olacak sayiyi giriniz: ");
+		System.out.print("Taban olacak sayiyi giriniz: ");
 		taban = scanner.nextInt();
 		
-		System.out.println("Us olacak sayiyi giriniz: ");
+		System.out.print("Us olacak sayiyi giriniz: ");
 		us = scanner.nextInt();
 		
 		int sonuc = 1;
